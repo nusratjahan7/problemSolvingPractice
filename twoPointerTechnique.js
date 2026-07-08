@@ -18,4 +18,4 @@ const result = reverseString(s);
 
 console.log("array", result);
 
-// Output = 
+// Output = [ 'd', 'c', 'b', 'a' ]
